@@ -1,4 +1,4 @@
-# Privilege Escalation Checklist (CPTS Prep)
+# Privilege Escalation Checklist
 
 ## General Approach
 - [ ] Confirm current user context and privilege level (`whoami`, `id`)
