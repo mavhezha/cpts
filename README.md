@@ -12,7 +12,7 @@ Writeups, scripts, notes, and cheatsheets from the HTB Academy Penetration Teste
 - [ ] Network Enumeration with Nmap
 - [x] Footprinting
 - [x] Information Gathering - Web Edition
-- [ ] Vulnerability Assessment
+- [x] Vulnerability Assessment
 - [ ] File Transfers
 - [ ] Shells & Payloads
 - [ ] Using the Metasploit Framework
