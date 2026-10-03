@@ -9,7 +9,7 @@ Writeups, scripts, notes, and cheatsheets from the HTB Academy Penetration Teste
 - [ ] Getting Started
 
 ### Enumeration & Attack Planning
-- [ ] Network Enumeration with Nmap
+- [x] Network Enumeration with Nmap
 - [x] Footprinting
 - [x] Information Gathering - Web Edition
 - [x] Vulnerability Assessment
