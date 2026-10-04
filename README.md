@@ -13,7 +13,7 @@ Writeups, scripts, notes, and cheatsheets from the HTB Academy Penetration Teste
 - [x] Footprinting
 - [x] Information Gathering - Web Edition
 - [x] Vulnerability Assessment
-- [ ] File Transfers
+- [x] File Transfers
 - [ ] Shells & Payloads
 - [ ] Using the Metasploit Framework
 
