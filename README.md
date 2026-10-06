@@ -14,7 +14,7 @@ Writeups, scripts, notes, and cheatsheets from the HTB Academy Penetration Teste
 - [x] Information Gathering - Web Edition
 - [x] Vulnerability Assessment
 - [x] File Transfers
-- [ ] Shells & Payloads
+- [x] Shells & Payloads
 - [ ] Using the Metasploit Framework
 
 ### Exploitation
