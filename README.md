@@ -47,7 +47,3 @@ Writeups, scripts, notes, and cheatsheets from the HTB Academy Penetration Teste
 ## Certification Target
 
 HTB Certified Penetration Testing Specialist (CPTS)
-
-## Status
-
-In progress.
